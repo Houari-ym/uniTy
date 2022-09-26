@@ -1,2 +1,2 @@
 # Demo Class Project
-Using Django API's, class prep 
+Using Django API's, class prep New student. 
